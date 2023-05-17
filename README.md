@@ -1,6 +1,6 @@
 # GANDalf: One Shot Face Tolkeinization now with Diffusers!
 
-Version 2.0 of GANdalf, switching to stable diffusion as the back end for image generation.
+Version 2.0 - switching to stable diffusion as the back end for image generation.
 
 Features:
 - Much better beard and hair generation.
@@ -8,6 +8,7 @@ Features:
 - Higher resolution output imagery.
 - No more fine tuning!
 - More computationally expensive 🚀
+- The D in the name is captialised.
 
 # GANdalf: One Shot Face Tolkeinization
 Currently non existent code for the currently theoretical paper "GANdalf: One Shot Face Tolkienization" 
